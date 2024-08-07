@@ -62,8 +62,8 @@
             Passionné de programmation depuis mes 13 ans.<br />\r
             Diplômé Bac +2 à 3WAcademy Paris.<br />\r
             Spécialisé en Javascript, langage dans lequel je créé en grande\r
-            partie tout mes projets.<br />\r
-            Je fais également du logiciel, jeu-vidéo, et est également prêt à\r
+            partie tous mes projets.<br />\r
+            Je fais également du logiciel, jeu-vidéo, et suis également prêt à\r
             découvrir de nouveaux langages et technologies.\r
           </p>\r
         </article>\r
@@ -215,8 +215,8 @@
             <h5>Projet GameVibe<br /><small>2022</small></h5>\r
             <p class="lead">Projet réalisé en React, Node.JS</p>\r
             <p>\r
-              Création d'un site d'écoute audio orienté dans l'univer du jeux\r
-              vidéo (from scratch).<br />\r
+              Création d'un site d'écoute audio orienté dans l'univers du jeu\r
+              vidéo.<br />\r
             </p>\r
             <i class="lab la-github"></i>\r
             <a href="https://github.com/Sh1v4x/GameVibe" class="underlined"\r
@@ -227,8 +227,8 @@
             <h5>Projet GameFinder</h5>\r
             <p class="lead">Projet réalisé en React, Node.JS</p>\r
             <p>\r
-              Création d'un site de recherche de jeux vidéos qui indique l'état\r
-              de serveur, le prix sur différente plat-form, et l'acualité de\r
+              Création d'un site de recherche de jeux vidéo qui indique l'état\r
+              de serveur, le prix sur différents plateformes, et l'actualité de\r
               celui-ci <br />\r
               En cours de développement\r
             </p>\r
@@ -239,8 +239,8 @@
             <h5>Projet PokeFinder</h5>\r
             <p class="lead">Projet réalisé en Html, CSS, Javascript</p>\r
             <p>\r
-              Petit projet utilisant l'API de pokemon pour rechercher des\r
-              pokemon par le numéro, et l'afficher sur une carte designé en CSS.\r
+              Petit projet utilisant l'API de pokémon pour rechercher des\r
+              pokémon par le numéro, et l'afficher sur une carte désigné en CSS.\r
             </p>\r
             <i class="lab la-github"></i>\r
             <a href="https://github.com/Sh1v4x/PokeFinder" class="underlined"\r
