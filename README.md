@@ -1,2 +1,2 @@
-# morgancaron.github.io
-Morgan Caron's Devblog
+# maximebommelasnier.github.io
+Maxime Bomme Lasnier's Devblog
