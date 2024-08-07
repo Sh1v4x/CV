@@ -92,7 +92,7 @@
                 </p>\r
               </div>\r
               <div class="col-2">\r
-                <img src="/img/3wa.png" alt="Logo 3WA" class="img-fluid" />\r
+                <img src="img/3wa.png" alt="Logo 3WA" class="img-fluid" />\r
               </div>\r
             </div>\r
           </article>\r
@@ -110,7 +110,7 @@
                 </p>\r
               </div>\r
               <div class="col-2">\r
-                <img src="/img/3wa.png" alt="Logo 3WA" class="img-fluid" />\r
+                <img src="img/3wa.png" alt="Logo 3WA" class="img-fluid" />\r
               </div>\r
             </div>\r
           </article>\r
@@ -124,7 +124,7 @@
               </div>\r
               <div class="col-2">\r
                 <img\r
-                  src="/img/esecad.png"\r
+                  src="img/esecad.png"\r
                   alt="Logo ESECAD"\r
                   class="img-fluid"\r
                 />\r
