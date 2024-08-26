@@ -226,7 +226,7 @@
               Mon espace détente, quand je ne sais pas quoi codé, ou que je veux\r
               tenter certaines choses en 3D/2D.<br />\r
             </p>\r
-            \r
+\r
             <ul class="triangle-right-bullet">\r
               <li>\r
                 <i class="lab la-github"></i>\r
@@ -325,6 +325,7 @@
               <li class="web">Jest <app-stars stars="4"></app-stars></li>\r
               <li class="web">Mocha <app-stars stars="4"></app-stars></li>\r
               <li class="web">Appium <app-stars stars="4"></app-stars></li>\r
+              <li class="web">NestJS <app-stars stars="3"></app-stars></li>\r
               <li class="web">ThreeJS <app-stars stars="3"></app-stars></li>\r
               <li class="web">Next.js <app-stars stars="3"></app-stars></li>\r
               <li class="web">Bootstrap <app-stars stars="3"></app-stars></li>\r
