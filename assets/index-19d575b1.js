@@ -33,7 +33,7 @@
         <div class="col-lg-8">\r
           <h1><a href="#">Maxime Bomme--Lasnier</a></h1>\r
           <h2>\r
-            Ingénieur –\r
+            Développeur –\r
             <select id="filter" class="primary">\r
               <option value="web">Développeur Web</option>\r
               <option value="cpp">Développeur Application</option>\r
