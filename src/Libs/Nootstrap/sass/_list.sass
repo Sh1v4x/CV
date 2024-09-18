@@ -4,7 +4,6 @@
 ul, ol
 	&.list-default
 		@extend .list-style-none
-		margin-top: 0
 		margin-bottom: 0
 		padding-left: 0
 
@@ -13,6 +12,9 @@ ul, ol
 		&.flex-row, &.flex-row-reverse
 			> li
 				display: inline-block
+
+.title.list-default
+	margin: 2rem 0 2rem 0
 
 =bullet
 	list-style-type: none

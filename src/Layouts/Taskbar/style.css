@@ -16,7 +16,7 @@
 app-taskbar {
 	display: block;
 	position: relative;
-	animation: 1s ease-out 0s 1 slideInFromTop;
+	
 }
 
 app-taskbar > nav > .container-fluid {

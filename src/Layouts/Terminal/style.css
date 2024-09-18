@@ -1,6 +1,5 @@
 app-terminal {
 	overflow: hidden;
-	font-family: monospace;
 	z-index: 1;
 }
 

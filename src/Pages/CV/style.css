@@ -45,7 +45,6 @@ header article::before {
 
 header + hr {
 	border-top: 1rem solid #008cba;
-	border-bottom: 2rem solid #fff;
 	margin: 0;
 }
 
